@@ -8,4 +8,3 @@ void main()
     scanf("%d", &min);
     printf("Time is %02d:%02d" , hour, min);
 }
-//PC_6010405467มาละ.
