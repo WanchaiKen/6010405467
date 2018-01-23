@@ -9,3 +9,6 @@ void main()
     min = min-((min/60)*60);
     printf("It is %d days %d hours and %d minutes.",day,hour,min);
 }
+{
+	//PC_6010405467มาละ eiei
+}
